@@ -23,10 +23,10 @@ This Python script scrapes the [RemoteRocketship](https://www.remoterocketship.c
 
 1. **Clone the repository:**
 
-````bash
+```bash
 git clone https://github.com/gitzero728/240705-Scraping-about-remoterocketship.git
 cd remoterocketship-scraper
-
+```
 
 2. **Create and activate a virtual environment (optional but recommended):**
 
