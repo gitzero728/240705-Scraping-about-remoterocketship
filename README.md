@@ -33,7 +33,7 @@ cd remoterocketship-scraper
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-````
+```
 
 3. **Install the required packages:**
 
