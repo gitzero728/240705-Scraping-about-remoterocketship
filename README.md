@@ -23,17 +23,17 @@ This Python script scrapes the [RemoteRocketship](https://www.remoterocketship.c
 
 1. **Clone the repository:**
 
-```bash
-git clone https://github.com/yourusername/remoterocketship-scraper.git
+````bash
+git clone https://github.com/gitzero728/240705-Scraping-about-remoterocketship.git
 cd remoterocketship-scraper
-```
+
 
 2. **Create and activate a virtual environment (optional but recommended):**
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-```
+````
 
 3. **Install the required packages:**
 
@@ -86,5 +86,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 7. **Contributing**: Encourages contributions and provides guidelines.
 8. **License**: Specifies the project's license.
 9. **Acknowledgements**: Credits the libraries used in the script.
-
-To include the GIF in the README, ensure the GIF file (`Scraping_about_remoterocketship.gif`) is placed in the root directory of your repository. The GIF will visually demonstrate the script's functionality to the users, making the README more engaging.
