@@ -22,16 +22,29 @@ This Python script scrapes the [RemoteRocketship](https://www.remoterocketship.c
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/remoterocketship-scraper.git
-   cd remoterocketship-scraper
-   ```
+
+```bash
+git clone https://github.com/yourusername/remoterocketship-scraper.git
+cd remoterocketship-scraper
+```
+
 2. **Create and activate a virtual environment (optional but recommended):**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+
 3. **Install the required packages:**
-   ```bash
-   pip install requests beautifulsoup4 fpdf
-   ```
+
+```bash
+pip install requests beautifulsoup4 fpdf
+```
+
+## Usage
+
+1. **Run the script:**
+
+```bash
+python scraper.py
+```
